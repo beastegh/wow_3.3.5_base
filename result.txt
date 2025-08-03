@@ -1,0 +1,3 @@
+Книги/WoW Programming lua Second Edition/Часть 3/Глава 24/Сканирование и конструирование tooltips.txt:91:  ItemRefTooltip:AddLine('This is a very long string that will be wrapped due to the fifth argument to this function', 1, 1, 1, true)
+Книги/WoW Programming lua Second Edition/Часть 3/Глава 24/Сканирование и конструирование tooltips.txt:184:    local function OnTooltipSetItem(self)
+Книги/WoW Programming lua Second Edition/Часть 3/Глава 24/Сканирование и конструирование tooltips.txt:233:    GameTooltip:SetScript('OnTooltipSetItem', function(self)

@@ -1,0 +1,5 @@
+## Interface: 30200
+## Title: MapZoomOut
+## Notes: Zooms the map out to the full level after a given time
+
+MapZoomOut.lua
